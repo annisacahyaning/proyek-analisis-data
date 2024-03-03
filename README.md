@@ -3,6 +3,8 @@
 ## Setup environment
 ```
 python --version
+python -m venv myenv
+myenv\Scripts\activate
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
